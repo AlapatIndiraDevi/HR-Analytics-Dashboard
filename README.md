@@ -36,5 +36,5 @@ You can download the sample dataset used for this HR Analytics Dashboard project
 * 📈 **Age Bucket Analysis** — Distribution of employees by age groups
 
 ## Dashboard image
-[HR Dashboard](dashboard_img.png)
+[![HR Dashboard](dashboard.png)](HR-Analytics-Dashboard.pbix)
 
