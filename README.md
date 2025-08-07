@@ -1,40 +1,79 @@
-# HR-Analytics-Dashboard
-## Project Objective
-This is a Power BI dashboard I created to explore and analyze HR data. It helps visualize important insights like hiring vs attrition trends, employee headcount, gender diversity, and age distribution.  The dashboard is interactive and designed to support HR teams in making data-driven decisions.
+# 📊 HR Analytics Dashboard
 
-## 📊 Dataset
+This project is a Power BI dashboard that visualizes and analyzes key HR metrics, enabling data-driven decisions in workforce management.
 
-You can download the sample dataset used for this HR Analytics Dashboard project here:  
-👉 [Download HRDataset](https://github.com/AlapatIndiraDevi/HR-Analytics-Dashboard/blob/main/HRDataset)
+## 🚀 Dashboard Preview
 
-## Here's a styled and emoji-enhanced version of your **KPI list** — perfect for a **GitHub README** section under your project description:
+[![HR Dashboard](Dashboard_img.png)](HR%20Analytics%20Dashboard.pbix)
 
-## 📊 Key Performance Indicators (KPIs)
+📎 **[Click here to download the Power BI Dashboard (.pbix)](HR%20Analytics%20Dashboard.pbix)**
 
-### 👥 **Workforce Size**
+---
 
-* 📌 **Headcount** — Total number of employees currently in the organization
+## 🎯 Key Performance Indicators (KPIs)
 
-### 🔄 **Workforce Dynamics**
+### 👥 Workforce Size
+- 🧑‍💼 **Headcount** – Total number of active employees
 
-* ❌ **Attrition Count** — Number of employees who have left
-* 📉 **Attrition Rate (%)** — Percentage of attrition compared to total workforce
+### 🔄 Workforce Dynamics
+- ❌ **Attrition Count**
+- 📉 **Attrition Rate (%)**
 
-### 👤 **Workforce Demographics**
+### 👤 Workforce Demographics
+- 🎂 **Average Age**
+- 🚻 **Gender Distribution**
+- 💍 **Marital Status Breakdown**
 
-* 🎂 **Average Age** — Mean age of employees
-* 🚻 **Gender Distribution** — Breakdown of employees by gender
-* 💍 **Marital Status** — Employee count by marital categories (e.g., single, married)
+### 🧲 Recruitment Channels
+- 🌐 **Source-wise Recruitment Analytics** (e.g., LinkedIn, Indeed)
 
-### 🧲 **Recruitment Channels**
+### 💰 Salary & Age Benchmarks
+- 💵 **Average Salary**
+- 📊 **Age Group Distribution**
 
-* 🌐 **Source Analysis** — Recruitment source effectiveness (e.g., LinkedIn, Indeed, etc.)
+---
 
-### 💰 **Salary & Age Benchmarks**
+## 📂 Project Files
 
-* 💵 **Average Salary** — Mean salary across all employees
-* 📈 **Age Bucket Analysis** — Distribution of employees by age groups
+| File Name                      | Description                                    |
+|-------------------------------|------------------------------------------------|
+| `HR Analytics Dashboard.pbix` | Main Power BI dashboard file                   |
+| `HRDataset`                   | Underlying dataset used in the dashboard       |
+| `Dashboard_img.png`           | Screenshot preview of the dashboard            |
+| `background img.jpeg`         | Background or design asset used in the report |
 
-## Dashboard image
-[![HR Dashboard](dashboard_img.png)](HR-Analytics-Dashboard.pbix)
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file using the link above.
+2. Open it in **Power BI Desktop**.
+3. Make sure your version of Power BI is updated to avoid compatibility issues.
+4. Customize filters and slicers to explore the HR data.
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Basic Data Transformation with Power Query**
+
+---
+
+## 🧠 Insights Enabled
+
+- Identify departments with high attrition
+- Understand age distribution and demographics
+- Evaluate recruitment source effectiveness
+- Track salary and employee trends over time
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/indiradevialapati)  
+Let’s connect professionally and discuss data, dashboards, or tech!
+
+---
 
