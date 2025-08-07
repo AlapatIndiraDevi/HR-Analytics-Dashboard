@@ -4,7 +4,7 @@ This project is a Power BI dashboard that visualizes and analyzes key HR metrics
 
 ## 🚀 Dashboard Preview
 
-[![HR Dashboard](Dashboard_img.png)](HR%20Analytics%20Dashboard.pbix)
+📎 [Download HR Analytics Dashboard (.pbix)](HR%20Analytics%20Dashboard.pbix)
 
 📎 **[Click here to download the Power BI Dashboard (.pbix)](HR%20Analytics%20Dashboard.pbix)**
 
